@@ -2,17 +2,7 @@
 #+SUBTITLE: Interesting things to look into in computing, science, and the sum product of human life.
 
 * Computing
-** Tools
-*** Version Control
-**** [[https://jwiegley.github.io/git-from-the-bottom-up/][Git from the bottom up]] - A brief look at git internals
-
-**** [[https://shop.jcoglan.com/building-git/][Building Git]] - James Coglan highly regarded book which develops a git clone.
-Well not literally ~git clone git@github.com:git/git.git~.
-
-**** [[https://pijul.org/][Pijul]] - Pijul claims to be based on a sound theory of patches
-Pijul is apparently inspired by a result from [[https://arxiv.org/abs/1311.3903][category theory]].
-
-** Interesting Programming Languages
+** Programming Languages
 *** Rust - A much beloved systems programming langauge focusing on safety (and wonderful error messages).
 **** [[https://doc.rust-lang.org/book/][The Book]] - An introduction to Rust
 **** [[https://github.com/rust-lang/rustlings][Rustlings]] - Rust through small exercises
@@ -23,6 +13,13 @@ Pijul is apparently inspired by a result from [[https://arxiv.org/abs/1311.3903]
 **** [[https://ziglang.org/learn/overview/][The Zig Tutorial]]
 **** [[https://github.com/ratfactor/ziglings][Ziglings]] - Zig through small exercises (like Rustlings).
 
+** Tools
+*** Version Control
+**** [[https://jwiegley.github.io/git-from-the-bottom-up/][Git from the bottom up]] - A brief look at git internals
+**** [[https://shop.jcoglan.com/building-git/][Building Git]] - James Coglan highly regarded book which develops a git clone.
+Well not literally ~git clone git@github.com:git/git.git~.
+**** [[https://pijul.org/][Pijul]] - Pijul claims to be based on a sound theory of patches
+Pijul is apparently inspired by a result from [[https://arxiv.org/abs/1311.3903][category theory]].
 
 * Graphics
 ** Visualization
