@@ -13,6 +13,9 @@
 **** [[https://ziglang.org/learn/overview/][The Zig Tutorial]]
 **** [[https://github.com/ratfactor/ziglings][Ziglings]] - Zig through small exercises (like Rustlings).
 
+*** Nim - A statitcally typed, compiled, systems programming language
+**** [[https://nim-lang.org/docs/tut1.html][The Official Nim Tutorial]]
+
 ** Tools
 *** Version Control
 **** [[https://jwiegley.github.io/git-from-the-bottom-up/][Git from the bottom up]] - A brief look at git internals
