@@ -16,6 +16,9 @@
 *** Nim - A statitcally typed, compiled, systems programming language
 **** [[https://nim-lang.org/docs/tut1.html][The Official Nim Tutorial]]
 
+*** Raku - Continuing Perl's legacy
+**** [[https://course.raku.org/][A Complete Course of the Raku programming language]]
+
 ** Tools
 *** Version Control
 **** [[https://jwiegley.github.io/git-from-the-bottom-up/][Git from the bottom up]] - A brief look at git internals
